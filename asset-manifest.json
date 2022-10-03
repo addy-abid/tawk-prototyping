@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tawk-prototyping/static/css/main.da138793.css",
+    "main.js": "/tawk-prototyping/static/js/main.5291a40d.js",
+    "static/js/787.599f888a.chunk.js": "/tawk-prototyping/static/js/787.599f888a.chunk.js",
+    "index.html": "/tawk-prototyping/index.html",
+    "main.da138793.css.map": "/tawk-prototyping/static/css/main.da138793.css.map",
+    "main.5291a40d.js.map": "/tawk-prototyping/static/js/main.5291a40d.js.map",
+    "787.599f888a.chunk.js.map": "/tawk-prototyping/static/js/787.599f888a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da138793.css",
+    "static/js/main.5291a40d.js"
+  ]
+}
