@@ -40,6 +40,7 @@ const planContents = [
 ];
 
 const Plan = props => {
+    console.log(props);
   return (
     <div className="card mb-4 shadow-sm">
       <div className="card-header">
